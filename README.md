@@ -103,6 +103,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Florian De Sa](https://www.linkedin.com/in/floriandesa/), Product Manager
 * [Gaëtan Dejaegere](https://github.com/gagagast), développeur front-end
 * [Florian Delahaye](https://www.linkedin.com/in/fld/), développeur
+* [Kévin Deléglise](https://www.linkedin.com/in/k%C3%A9vin-del%C3%A9glise/), Concepteur Développeur en Symfony (PHP) Nuxt (Vue)
 * [Kevin Delfour](https://www.linkedin.com/in/kevindelfour/), Technical Expert / Scrum master 
 * [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
 * [Clément Desmidt](https://shikiryu.com), développeur PHP
